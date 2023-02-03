@@ -1,4 +1,4 @@
-# Live url of the project: https://weather-react-hook.netlify.app/
+## Live url of the project: https://weather-react-hook.netlify.app/
 
 
 # Getting Started with Create React App
